@@ -13,7 +13,7 @@ export function Navigation() {
 						<span className="text-xl font-bold">Appricot</span>
 					</Link>
 
-					<div className="flex items-center space-x-4">
+					<div className="flex items-center space-x-2 md:space-x-4">
 						<Link href="/">
 							<Button variant="ghost">Products</Button>
 						</Link>
